@@ -1,0 +1,19 @@
+Event_ID,Date,Time,Location,Description,Aircraft_type,Weather_conditions,Flight_distance,Payload,Fuel_consumption
+1,8/4/2023,12:00:00,Los Angeles International Airport,Wind shear on takeoff,Boeing 737,VFR,1000,10000,1000
+2,8/5/2023,13:00:00,John F. Kennedy International Airport,Turbulence in flight,Airbus A320,IFR,2000,20000,2000
+3,8/6/2023,14:00:00,O'Hare International Airport,Engine failure,Boeing 777,VFR,3000,30000,3000
+4,8/7/2023,15:00:00,San Francisco International Airport,Electrical problems,Airbus A380,IFR,4000,40000,4000
+5,8/8/2023,16:00:00,Dallas/Fort Worth International Airport,Fuel leak,Boeing 747,VFR,5000,50000,5000
+6,8/9/2023,17:00:00,Miami International Airport,Bird strike,Airbus A330,IFR,6000,60000,6000
+7,8/10/2023,18:00:00,Denver International Airport,Landing gear problems,Boeing 767,VFR,7000,70000,7000
+8,8/11/2023,19:00:00,Charlotte Douglas International Airport,Hydraulic problems,Airbus A340,IFR,8000,80000,8000
+9,8/12/2023,20:00:00,Seattle-Tacoma International Airport,Electrical fire,Boeing 787,VFR,9000,90000,9000
+10,8/13/2023,21:00:00,Phoenix Sky Harbor International Airport,Engine overheat,Airbus A350,IFR,10000,100000,10000
+11,8/14/2023,22:00:00,Atlanta Hartsfield-Jackson International Airport,Loss of cabin pressure,Boeing 747-8,IFR,11000,110000,11000
+12,8/15/2023,23:00:00,Chicago O'Hare International Airport,Medical emergency on board,Airbus A380-800,VFR,12000,120000,12000
+13,8/16/2023,0:00:00,Los Angeles International Airport,Mechanical problems,Boeing 787-9,IFR,13000,130000,13000
+14,8/17/2023,1:00:00,John F. Kennedy International Airport,Electrical problems,Airbus A350-900,VFR,14000,140000,14000
+15,8/18/2023,2:00:00,O'Hare International Airport,Engine failure,Boeing 777-300ER,IFR,15000,150000,15000
+16,8/19/2023,3:00:00,San Francisco International Airport,Turbulence in flight,Airbus A380-800,VFR,16000,160000,16000
+,,,,,,,,,
+,,,,,,,,,
